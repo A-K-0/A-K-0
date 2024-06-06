@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NLP's , LLM's <br>👯 I’m looking to collaborate on interesting projects<br>🌱 I’m currently learning JAVA Spring boot<br>⚡ Love to learn more about XR
+🔭 I’m currently working on NLP's and LLM's <br>👯 I’m looking to collaborate on interesting projects<br>🌱 I’m currently learning JAVA Spring boot<br>⚡ Love to learn more about XR
 
 
 ## 🌐 Socials:
