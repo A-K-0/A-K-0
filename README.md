@@ -2,6 +2,10 @@
 🔭 I’m currently working on NLP and LLM's<br>👯 I’m looking to collaborate on interesting projects <br>🌱 I’m currently learning JAVA Spring boot<br>⚡ Love to learn more about XR
 
 
+<!-- <p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=A-K-0&label=Profile%20views&color=0e75b6&style=flat" alt="A-K-0" /> 
+</p> -->
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya_kasarla)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-kasarla-500810287)
 # 💻 Tech Stack:
